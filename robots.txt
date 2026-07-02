@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smart-invoice-generator-silk.vercel.app/sitemap.xml
